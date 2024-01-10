@@ -1,3 +1,3 @@
 # County
 A counter application that counts numbers. It is an Android
-application.
+application made using Java.
